@@ -1,0 +1,6 @@
+IMAGES: .jpeg, .png, .jpg, .svg
+VIDEO: .avi, .mp4, .mov, .mkv
+DOCS: .doc, .docx, .txt, .pdf, .xlsx, .pptx
+AUDIO: .mp3, .ogg, .wav, .amr
+ARCHIVES: .zip, .gz, .tar
+OTHER:
